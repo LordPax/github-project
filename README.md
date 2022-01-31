@@ -1,9 +1,12 @@
-# Github Project 2
+# Github Project
 ## Description
 Ceci est un repository pour un projet de git sur github
 
+## Github Page
+* [gh-page](https://lordpax.github.io/github-project/)
+
 ## Installation
 ```bash
-git clone git@github.com:LordPax/github-project-2.git
-cd github-projet-2
+git clone git@github.com:LordPax/github-project.git
+cd github-projet
 ```
